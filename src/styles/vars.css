@@ -1,0 +1,14 @@
+/* CSS Variables */
+
+:root{ /* Raiz */
+    /* FONT */
+    --font-dm-sans:"DM Sans", sans-serif;
+
+    /* COLORS */
+    --bg-icon: #131313;
+    --bg-arrow-color: rgba(0, 0, 07);
+    --bg-search-color: #242424;
+    --search-input-color: #fff;
+    --btn-subscribe-color: #a7a7a7;
+    --btn-login-color: #000;
+}
