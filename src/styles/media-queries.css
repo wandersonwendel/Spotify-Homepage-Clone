@@ -1,0 +1,5 @@
+@media screen and (max-width: 1015px){
+    .offer__list-item{ /* Classe que carrega o display grip que define quantas colunas terá na tela */
+        grid-template-columns: 1fr 1fr; /* Nesta resolução, apenas dois cards irão aparecer */
+    }
+}
